@@ -1,0 +1,9 @@
+3          // num of symbols in the automata Alphabet A: a, b, c
+4          // num of states S: 0, 1, 2, 3
+0          // automata initial state: 0
+2    1 3   // two final states: 1, 3
+0    a    1  // state transitions
+0    b    2
+1    c    3
+2    b    1
+3    a    2
